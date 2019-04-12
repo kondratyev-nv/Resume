@@ -6,8 +6,11 @@ relative_links:
   enabled: true
   collections: true
 
-remote_theme: yous/whiteglass
+remote_theme: kondratyev-nv/jekyll-theme-littlefox
 title: "Resume"
 description: "Nikolay Kondratyev Resume"
 
 url: "https://kondratyev-nv.github.io/"
+
+littlefox:
+  disable_header: true

@@ -1,14 +1,16 @@
-<p align="center"><img src="./Images/Cat_100.png"></p>
+<p align="center">
+  <img src="./Images/Cat_100.png">
+</p>
 <h1 align="center">Nikolay Kondratyev</h1>
 <p align="center">
-Moscow, Russia
-<br/>
-<a href="mailto:kondratyev.nv@gmail.com">kondratyev.nv@gmail.com</a>
-<br/>
-<a href="https://linkedin.com/in/kondratyevnv/"><img width="25" src="./Images/LinkedIn_Logo_32.png"></a>
-<a href="https://stackoverflow.com/users/4182275/"><img width="25" src="./Images/StackOverflow_Logo_32.png"></a>
-<a href="https://github.com/kondratyev-nv"><img width="25" src="./Images/GitHub_Logo_32.png"></a>
-<a href="https://hackerrank.com/kondratyevnv"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
+  Moscow, Russia
+  <br/>
+  <a href="mailto:kondratyev.nv@gmail.com">kondratyev.nv@gmail.com</a>
+  <br/>
+  <a href="https://linkedin.com/in/kondratyevnv/"><img width="25" src="./Images/LinkedIn_Logo_32.png"></a>
+  <a href="https://stackoverflow.com/users/4182275/"><img width="25" src="./Images/StackOverflow_Logo_32.png"></a>
+  <a href="https://github.com/kondratyev-nv/"><img width="25" src="./Images/GitHub_Logo_32.png"></a>
+  <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
 </p>
 
 Software engineer experienced in full software development life cycle and feature ownership. Passionate about learning new technologies with a keen interest in high-performance scalable solutions, distributed systems, high-quality software design and architecture. Have a strong hard- and soft-skill background developed through both education and experience that provides an excellent basis for working in the most different situations. 
