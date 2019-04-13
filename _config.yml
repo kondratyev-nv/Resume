@@ -7,7 +7,7 @@ relative_links:
   collections: true
 
 remote_theme: kondratyev-nv/jekyll-theme-littlefox
-title: "Resume"
+title: "Nikolay Kondratyev Resume"
 description: "Nikolay Kondratyev Resume"
 
 url: "https://kondratyev-nv.github.io/"

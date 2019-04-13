@@ -18,7 +18,7 @@ Software engineer experienced in full software development life cycle and featur
 ## Experience
 
 ### __Yandex__
-#### __Software Engineer__<br/>Sep 2017 - Current
+#### __Software Engineer__<br/>Sep 2017 - Present
 
  * Analysing business requirements and providing solutions to resolve system and user issues
  * Developing new features, fixing bugs, refactoring, testing, and reviewing code
