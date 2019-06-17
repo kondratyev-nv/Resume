@@ -13,24 +13,25 @@
   <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
 </p>
 
-Software engineer experienced in full software development life cycle and feature ownership. Passionate about learning new technologies with a keen interest in high-performance scalable solutions, distributed systems, high-quality software design and architecture. Have a strong hard- and soft-skill background developed through both education and experience that provides an excellent basis for working in the most different situations. 
+Software engineer experienced in full software development life cycle and feature ownership. Skilled at designing, developing and delivering scalable and resilient code for large-scale and high-availability distributed systems. Passionate about learning new technologies with a keen interest in high-performance and scalable solutions, distributed systems, high-quality software design and architecture.
 
 ## Experience
 
 ### __Yandex__
 #### __Software Engineer__<br/>Sep 2017 - Present
 
- * Analysing business requirements and providing solutions to resolve system and user issues
+ * Leading various projects with a focus on improving customer experience
+ * Analysing business requirements, providing solutions and time estimations
  * Developing new features, fixing bugs, refactoring, testing, and reviewing code
+ * Providing mentorship to new team members
 
 _Accomplishments_:
  * Designed and developed cross-component features built with various technologies
  * Automated backward compatibility checking for cross-component APIs, integrated it to the development workflow
  * Automated several development workflow steps that decreased development cycle time by up to 50%
- * Provided mentorship to junior team members
+ * Improved and optimized release life cycle, decreased release and hotfix time by up to 75%
 
-_Technologies_: Java, Spring Framework, JDBC, jOOQ, PostgreSQL, Zookeeper, SQL, Gradle, JUnit,
-TeamCity, IntelliJ IDEA, Microservices, Concurrency, Git, GitFlow, Linux
+_Technologies_: Java, Spring Framework, JDBC, jOOQ, PostgreSQL, Zookeeper, SQL, Gradle, JUnit, Continuous Integration, Continuous Delivery, TeamCity, IntelliJ IDEA, Microservices, Concurrency, Git, Linux
 
 ### __BARS Group__
 #### __Senior Full Stack Developer__<br/>Mar 2017 - Aug 2017
@@ -115,6 +116,7 @@ Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Algorithm
 
  * [Using HYB Sparse Matrix Storage Format for Solving Linear Systems Obtained by FEM Discretization on GPU](https://doi.org/10.1109/APEIE.2018.8546266),
    Actual Problems of Electronics Instrument Engineering (APEIE), IEEE, Oct 2018
+ * [Finite Element Code for Multidimensional Numerical Analysis of Squirrel-Cage Induction Motor](https://dx.doi.org/10.2991/aime-17.2017.137), Actual Issues of Mechanical Engineering, Jul 2017
  * [Approach to distributed computing system development for three-dimensional geoelectromagnetic problem solving](https://doi.org/10.1109/APEIE.2016.7806465),
    Actual Problems of Electronics Instrument Engineering (APEIE), IEEE, Oct 2016
  * [GPU implementation of iterative solver for linear systems obtained by FEM discretization](https://doi.org/10.1109/APEIE.2016.7806466),
