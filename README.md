@@ -13,28 +13,35 @@
   <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
 </p>
 
-Software engineer experienced in full software development life cycle and feature ownership. Skilled at designing, developing and delivering scalable and resilient code for large-scale and high-availability distributed systems. Passionate about learning new technologies with a keen interest in high-performance and scalable solutions, distributed systems, high-quality software design and architecture.
+Software engineer experienced in designing, developing and delivering high-quality code in multiple languages. Passionate and focused on scalable, highly available and fault-tolerant solutions. Eager to learn new technologies and improve products and systems.
 
 ## Experience
 
 ### __Yandex__
 #### __Software Engineer__<br/>Sep 2017 - Present
 
- * Leading various projects with a focus on improving customer experience
+Our team develops Java backend services for Beru and Bringly e-commerce marketplaces that provide core functionality such as user carts, order checkouts, payments, customer notifications, APIs for internal components and public APIs for shops. We built it with Spring Framework, JDBC and jOOQ, PostgreSQL database, Zookeeper, and other technologies.
+
+ * Leading various projects focused on improving customer experience
  * Analysing business requirements, providing solutions and time estimations
  * Developing new features, fixing bugs, refactoring, testing, and reviewing code
  * Providing mentorship to new team members
 
 _Accomplishments_:
- * Designed and developed cross-component features built with various technologies
+ 
+ * Designed and developed cross-component features built with various technologies, meeting strict deadlines while maintaining code and architecture quality
+ * Significantly decreased downtimes by improving database management and database refactoring process
  * Automated backward compatibility checking for cross-component APIs, integrated it to the development workflow
  * Automated several development workflow steps that decreased development cycle time by up to 50%
  * Improved and optimized release life cycle, decreased release and hotfix time by up to 75%
-
+ * Numerous code maintainability and service reliability improvements
+ 
 _Technologies_: Java, Spring Framework, JDBC, jOOQ, PostgreSQL, Zookeeper, SQL, Gradle, JUnit, Continuous Integration, Continuous Delivery, TeamCity, IntelliJ IDEA, Microservices, Concurrency, Git, Linux
 
 ### __BARS Group__
 #### __Senior Full Stack Developer__<br/>Mar 2017 - Aug 2017
+
+Our team developed a budget planning system for the Ministry of Finance of one of the Russian Federation regions. The system is a SPA with ExtJS frontend, C# and ASP.Net MVC backend, NHibernate and linq2db ORMs, PostgreSQL database, Castle Windsor IoC container, and RabbitMQ for asynchronous tasks.
 
  * Developed new features, fixed bugs and performance issues on both front- and back-end sides of the application
  * Provided leadership and mentorship to the engineering team, reviewed code
@@ -43,6 +50,7 @@ _Technologies_: Java, Spring Framework, JDBC, jOOQ, PostgreSQL, Zookeeper, SQL, 
  * Supervised and coordinated workflow and git flow
 
 _Accomplishments:_
+ 
  * Fixed performance issues, decreased processing time of some operations by up to 90%
  * Improved performance of SQL queries by adding indexes and redesigning part of the database schema
  * Successfully met deadlines of releases both as a coordinator and a part of a team
@@ -54,6 +62,7 @@ _Technologies:_ C#, .NET, ASP.NET MVC, NHibernate, Castle Windsor, linq2db, Java
  * Developed new features and fixed bugs on both front- and back-end sides of the application, reviewed code
 
 _Accomplishments:_
+ 
  * Designed and implemented MS Excel report system based on Syncfusion XlsIO that decreased development time of reports by up to 75%
  * Designed and implemented an aspect-oriented authorisation system for various modules
  * Redesigned and refactored document management subsystem that improved document flow performance
@@ -61,11 +70,14 @@ _Accomplishments:_
 ### __CDEK__
 #### __Java Developer__<br/>Jun 2015 - Dec 2015
 
+Our team developed backend services and refactored monolithic application into Java microservices.
+
  * Refactored, developed and tested backend services with Spring Framework, JDBC and MySQL database
  * Analysed business requirements, took part in the elaboration of system design
  * Developed and implemented new features, fixed bugs
 
 _Accomplishments:_
+ 
  * Conducted research on message brokers (ActiveMQ and RabbitMQ), performance and persistence comparison
  * Deployed and configured ESB (Mule ESB), ported system components to use ESB and message queues
  * Conducted performance testing of newly developed services, fixed performance issues
@@ -98,13 +110,14 @@ Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Algorithm
 ## Projects
  
  * [Python Test Explorer for Visual Studio Code](https://github.com/kondratyev-nv/vscode-python-test-adapter)  
-   The Visual Studio Code extension that allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
+   Visual Studio Code extension with more that 150K downloads. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
 
  * [Fake name generation extension for Chrome](https://github.com/kondratyev-nv/name-genarator-extension)  
    Fake name generation extension will generate random profiles using different external sources. You can also save generated data for later use.
 
 ## Certifications
  
+ * [Neural Networks and Deep Learning, Coursera, July 2019](https://www.coursera.org/account/accomplishments/verify/BCLMQE97BSXY)
  * [Introduction to Machine Learning, Coursera, December 2018](https://www.coursera.org/account/accomplishments/verify/LSBDQ7KLW9FT)
  * [Algorithms on Strings, Coursera, September 2018](https://www.coursera.org/account/accomplishments/verify/RM3MK5VBJ7WQ)
  * [Algorithms on Graphs, Coursera, August 2018](https://www.coursera.org/account/accomplishments/verify/2NHADYLDGB2P)
