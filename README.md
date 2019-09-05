@@ -11,6 +11,7 @@
   <a href="https://stackoverflow.com/users/4182275/"><img width="25" src="./Images/StackOverflow_Logo_32.png"></a>
   <a href="https://github.com/kondratyev-nv/"><img width="25" src="./Images/GitHub_Logo_32.png"></a>
   <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
+  <a href="Nikolay_Kondratyev_Resume_20190904.pdf"><img width="25" src="./Images/PDF_Logo_32.png"></a>
 </p>
 
 Software engineer experienced in designing, developing and delivering high-quality code in multiple languages. Passionate and focused on scalable, highly available and fault-tolerant solutions. Eager to learn new technologies and improve products and systems.
@@ -20,10 +21,10 @@ Software engineer experienced in designing, developing and delivering high-quali
 ### __Yandex__
 #### __Software Engineer__<br/>Sep 2017 - Present
 
-Our team develops Java backend services for Beru and Bringly e-commerce marketplaces that provide core functionality such as user carts, order checkouts, payments, customer notifications, APIs for internal components and public APIs for shops. We built it with Spring Framework, JDBC and jOOQ, PostgreSQL database, Zookeeper, and other technologies.
+Developing Java back-end services for Beru and Bringly e-commerce marketplaces that provide core functionality such as user carts, order checkouts, payments, customer notifications, APIs for internal components, and public APIs for shops.
 
  * Leading various projects focused on improving customer experience
- * Analysing business requirements, providing solutions and time estimations
+ * Analyzing business requirements, providing solutions and time estimations
  * Developing new features, fixing bugs, refactoring, testing, and reviewing code
  * Providing mentorship to new team members
 
@@ -41,13 +42,13 @@ _Technologies_: Java, Spring Framework, JDBC, jOOQ, PostgreSQL, Zookeeper, SQL, 
 ### __BARS Group__
 #### __Senior Full Stack Developer__<br/>Mar 2017 - Aug 2017
 
-Our team developed a budget planning system for the Ministry of Finance of one of the Russian Federation regions. The system is a SPA with ExtJS frontend, C# and ASP.Net MVC backend, NHibernate and linq2db ORMs, PostgreSQL database, Castle Windsor IoC container, and RabbitMQ for asynchronous tasks.
+Developed a budget planning system for the Ministry of Finance of one of the Russian Federation regions. The system is a SPA with ExtJS front-end, C# and ASP.Net MVC back-end.
 
  * Developed new features, fixed bugs and performance issues on both front- and back-end sides of the application
  * Provided leadership and mentorship to the engineering team, reviewed code
  * Estimated task time, planned releases
- * Analysed business requirements and provided solutions to resolve system and user issues
- * Supervised and coordinated workflow and git flow
+ * Analyzed business requirements and provided solutions to resolve system and user issues
+ * Supervised and coordinated workflow and git-flow
 
 _Accomplishments:_
  
@@ -64,17 +65,16 @@ _Technologies:_ C#, .NET, ASP.NET MVC, NHibernate, Castle Windsor, linq2db, Java
 _Accomplishments:_
  
  * Designed and implemented MS Excel report system based on Syncfusion XlsIO that decreased development time of reports by up to 75%
- * Designed and implemented an aspect-oriented authorisation system for various modules
+ * Designed and implemented an aspect-oriented authorization system for various modules
  * Redesigned and refactored document management subsystem that improved document flow performance
 
 ### __CDEK__
 #### __Java Developer__<br/>Jun 2015 - Dec 2015
 
-Our team developed backend services and refactored monolithic application into Java microservices.
+Developed back-end services and refactored monolithic application into Java microservices.
 
- * Refactored, developed and tested backend services with Spring Framework, JDBC and MySQL database
- * Analysed business requirements, took part in the elaboration of system design
- * Developed and implemented new features, fixed bugs
+ * Developed new features and fixed bugs
+ * Analyzed business requirements, took part in the elaboration of system design
 
 _Accomplishments:_
  
@@ -89,7 +89,7 @@ _Technologies:_ Java, Spring Framework, JDBC, MySQL, Maven, JUnit, IntelliJ IDEA
 
 _Accomplishments:_
 
- * Developed and implemented geophysical numerical modeling software modules based on finite element method in C/C++ and boost
+ * Developed and implemented geophysical numerical modeling software modules based on the finite element method in C/C++ and boost
  * Accelerated numerical modeling on CPU (OpenMP) and GPU (CUDA)
  * Decreased large sparse linear system solving time by up to 75%
  * Developed and implemented a distributed system for numerical modeling
@@ -105,15 +105,15 @@ Graduated with Honours. Gained knowledge and experience in C/C++, concurrent pro
 
 ## Skills
 
-Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Algorithms, Data Structures, SQL, C/C++, Git, GitFlow, NHibernate, JDBC, Castle Windsor, linq2db, ExtJS, PostgreSQL, Zookeeper, RabbitMQ, MySQL, Maven, JUnit, ActiveMQ, MongoDB, Syncfusion XlsIO, XUnit, Concurrent Programming, Software design, Design patterns, Testing, Microservices, WCF, Agile Methodologies, Kanban, Scrum, Code Review, Web services, CUDA, TeamCity, IntelliJ IDEA, Visual Studio, Rider IDE, Windows, Linux
+Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Python, Algorithms, Data Structures, SQL, C/C++, Git, GitFlow, NHibernate, JDBC, Castle Windsor, linq2db, ExtJS, PostgreSQL, Zookeeper, RabbitMQ, MySQL, Maven, JUnit, ActiveMQ, MongoDB, Syncfusion XlsIO, XUnit, Concurrent Programming, Software design, Design patterns, Testing, Microservices, WCF, Agile Methodologies, Kanban, Scrum, Code Review, Web services, CUDA, TeamCity, IntelliJ IDEA, Visual Studio, Rider IDE, Windows, Linux
 
 ## Projects
  
  * [Python Test Explorer for Visual Studio Code](https://github.com/kondratyev-nv/vscode-python-test-adapter)  
-   Visual Studio Code extension with more that 150K downloads. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
+   Visual Studio Code extension with more than 150K downloads. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
 
  * [Fake name generation extension for Chrome](https://github.com/kondratyev-nv/name-genarator-extension)  
-   Fake name generation extension will generate random profiles using different external sources. You can also save generated data for later use.
+   Fake name generation extension generates random profiles using different external sources. You can also save generated data for later use.
 
 ## Certifications
  
