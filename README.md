@@ -11,7 +11,7 @@
   <a href="https://stackoverflow.com/users/4182275/"><img width="25" src="./Images/StackOverflow_Logo_32.png"></a>
   <a href="https://github.com/kondratyev-nv/"><img width="25" src="./Images/GitHub_Logo_32.png"></a>
   <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
-  <a href="Nikolay_Kondratyev_Resume_20190904.pdf"><img width="25" src="./Images/PDF_Logo_32.png"></a>
+  <a href="Nikolay_Kondratyev_Resume_20191009.pdf"><img width="25" src="./Images/PDF_Logo_32.png"></a>
 </p>
 
 Software engineer experienced in designing, developing and delivering high-quality code in multiple languages. Passionate and focused on scalable, highly available and fault-tolerant solutions. Eager to learn new technologies and improve products and systems.
@@ -110,7 +110,7 @@ Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Python, A
 ## Projects
  
  * [Python Test Explorer for Visual Studio Code](https://github.com/kondratyev-nv/vscode-python-test-adapter)  
-   Visual Studio Code extension with more than 150K downloads. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
+   Visual Studio Code extension with more than 200K downloads. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
 
  * [Fake name generation extension for Chrome](https://github.com/kondratyev-nv/name-genarator-extension)  
    Fake name generation extension generates random profiles using different external sources. You can also save generated data for later use.
