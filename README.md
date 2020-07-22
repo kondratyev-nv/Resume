@@ -30,8 +30,8 @@ Developed Java back-end services for Beru e-commerce marketplace that provided c
 
 _Accomplishments:_
  
- * Led, designed, and developed cross-component features built with various technologies, meeting strict deadlines while maintaining code and architecture quality.
- * Improved integration between multiple components that decreased service resource consumption by up to 70% and response time by up to 40%.
+ * Led, designed, and developed cross-component features built with various technologies, meeting strict deadlines while maintaining code and architecture quality.
+ * Improved integration between multiple components that decreased service resource consumption by up to 70% and response time by up to 40%.
  * Significantly decreased service downtimes and response error percent during releases by improving database management and database refactoring process.
  * Improved and optimized release lifecycle that decreased release and hotfix time by up to 75%.
  * Improved continuous integration process and automated multiple development workflow steps that decreased development cycle time by up to 50%.
