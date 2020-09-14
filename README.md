@@ -11,7 +11,7 @@
   <a href="https://stackoverflow.com/users/4182275/"><img width="25" src="./Images/StackOverflow_Logo_32.png"></a>
   <a href="https://github.com/kondratyev-nv/"><img width="25" src="./Images/GitHub_Logo_32.png"></a>
   <a href="https://hackerrank.com/kondratyevnv/"><img width="25" src="./Images/HackerRank_Logo_32.png"></a>
-  <a href="Nikolay_Kondratyev_Resume_20200714.pdf"><img width="25" src="./Images/PDF_Logo_32.png"></a>
+  <a href="Nikolay_Kondratyev_Resume_20200913.pdf"><img width="25" src="./Images/PDF_Logo_32.png"></a>
 </p>
 
 Software engineer experienced in designing, developing and delivering high-quality code in multiple languages. Passionate and focused on scalable, highly available and fault-tolerant solutions. Eager to learn new technologies and improve products and systems.
@@ -31,6 +31,7 @@ Developed Java back-end services for Beru e-commerce marketplace that provided c
 _Accomplishments:_
  
  * Led, designed, and developed cross-component features built with various technologies, meeting strict deadlines while maintaining code and architecture quality.
+ * Organized team workflow to tackle technical debt by negotiating importance and priorities with managers, revisiting current and introducing new practices.
  * Improved integration between multiple components that decreased service resource consumption by up to 70% and response time by up to 40%.
  * Significantly decreased service downtimes and response error percent during releases by improving database management and database refactoring process.
  * Improved and optimized release lifecycle that decreased release and hotfix time by up to 75%.
@@ -46,12 +47,10 @@ _Technologies:_ Java 8, Java 11, Spring Framework, JDBC, jOOQ, PostgreSQL, Zooke
 
 Developed a budget planning system for the Ministry of Finance of one of the Russian Federation regions. The system was an SPA with ExtJS front-end, C# and ASP.NET MVC back-end.
 
- * Designed and developed new features, fixed bugs and performance issues on both front- and back-end sides of the application.
- * Provided leadership and mentorship to the engineering team, reviewed code.
- * Estimated task time, planned releases.
- * Analyzed business requirements and provided solutions to resolve system and user issues.
- * Supervised and coordinated workflow and git-flow.
-
+ * Provided leadership and mentorship to the engineering team, coordinated workflow.
+ * Analyzed business requirements and provided solutions to resolve system and user issues. Estimated task time, planned releases.
+ * Designed and developed new features, fixed bugs and performance issues on both front- and back-end sides of the application, reviewed code.
+ 
 _Accomplishments:_
  
  * Fixed performance issues, decreased processing time of some operations by up to 90%.
@@ -112,7 +111,7 @@ Java, C#, .NET, Spring Framework, ASP.NET MVC, JavaScript, TypeScript, Python, A
 ## Projects
  
  * [Python Test Explorer for Visual Studio Code](https://github.com/kondratyev-nv/vscode-python-test-adapter)  
-   Visual Studio Code extension with more than 150K unique installs. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
+   Visual Studio Code extension with more than 175K unique installs. It allows users to discover and run Python Unittest or Pytest tests with the Test Explorer tree view. 
 
  * [Fake name generation extension for Chrome](https://github.com/kondratyev-nv/name-genarator-extension)  
    Fake name generation extension generates random profiles using different external sources. You can also save generated data for later use.
